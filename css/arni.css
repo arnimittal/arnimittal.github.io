@@ -1,0 +1,13 @@
+#roles a {
+    color: black;
+    text-decoration: underline;
+}
+
+#roles h2, #skills h2{
+    color: #f19915;
+    font-weight: 600;
+}
+
+#contact a {
+    font-weight: 600;
+}
