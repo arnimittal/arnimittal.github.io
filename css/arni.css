@@ -8,6 +8,10 @@
     font-weight: 600;
 }
 
-#contact a {
+#contact {
     font-weight: 600;
+}
+
+#contact a {
+    text-decoration: underline;
 }
