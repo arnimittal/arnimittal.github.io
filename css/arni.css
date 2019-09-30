@@ -15,3 +15,7 @@
 #contact a {
     text-decoration: underline;
 }
+
+#home {
+    height: Window.innerheight;
+}
