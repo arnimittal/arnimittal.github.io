@@ -27,9 +27,12 @@
         }
         
         var md = new MobileDetect(window.navigator.userAgent);
-        console.log(md)
+        console.log(md.mobile())
         
-//         window.addEventListener("load", toggleFullScreen());
+        if(md.mobile()){
+            window.addEventListener("load", toggleFullScreen());
+        }
+        
     </script>
 </head>
 <body>
